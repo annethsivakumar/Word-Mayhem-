@@ -1,8 +1,5 @@
 /*
  * Program Name: WordMayhem.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: July 14, 2023
  * Description: 
  * This program is a word game called Word Mayhem. 
  * Two players take turns guessing words based on a set of assigned letters.
